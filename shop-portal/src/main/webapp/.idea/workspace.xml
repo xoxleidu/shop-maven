@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89287dd8-bcfb-4f70-b2d3-dd0515c0be05" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEB-INF/jsp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="370" column="838" lean-forward="true" selection-start-line="370" selection-start-column="838" selection-end-line="370" selection-end-column="838" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib-v1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/lib-v1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="1232" column="60" lean-forward="true" selection-start-line="1232" selection-start-column="60" selection-end-line="1232" selection-end-column="60" />
+              <folding>
+                <marker date="1505822662466" expanded="true" signature="55900:55950" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="56540:56546" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="56967:56973" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="58490:58549" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="60702:60796" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="73799:73912" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="84215:84234" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="86502:86508" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="86508:86512" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="86880:86886" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="86886:86890" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="89589:89595" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="89595:89599" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="89757:89763" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="89763:89767" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="89936:89942" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="89942:89946" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="90111:90117" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="90117:90121" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="90401:90431" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="90443:90465" ph="..." />
+                <marker date="1505822662466" expanded="true" signature="90561:90567" ph=" " />
+                <marker date="1505822662466" expanded="true" signature="90567:90571" ph="&gt;" />
+                <marker date="1505822662466" expanded="true" signature="92305:92314" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <marker date="1505370838340" expanded="true" signature="34219:34232" ph="..." />
+                <marker date="1505370838340" expanded="true" signature="48768:48807" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEB-INF/jsp/commons/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav-2013</find>
+      <find>getDataService</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/lib-v1.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="576" />
+    <option name="y" value="181" />
+    <option name="width" value="1277" />
+    <option name="height" value="759" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89287dd8-bcfb-4f70-b2d3-dd0515c0be05" name="默认的" comment="" />
+      <created>1505794114425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505794114425</updated>
+      <workItem from="1505794115579" duration="1414000" />
+      <workItem from="1505820731368" duration="2569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3983000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="576" y="181" width="1277" height="759" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <marker date="1505370838340" expanded="true" signature="34219:34232" ph="..." />
+            <marker date="1505370838340" expanded="true" signature="48768:48807" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="370" column="838" lean-forward="true" selection-start-line="370" selection-start-column="838" selection-end-line="370" selection-end-column="838" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/jsp/commons/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib-v1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="1232" column="60" lean-forward="true" selection-start-line="1232" selection-start-column="60" selection-end-line="1232" selection-end-column="60" />
+          <folding>
+            <marker date="1505822662466" expanded="true" signature="55900:55950" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="56540:56546" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="56967:56973" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="58490:58549" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="60702:60796" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="73799:73912" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="84215:84234" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="86502:86508" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="86508:86512" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="86880:86886" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="86886:86890" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="89589:89595" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="89595:89599" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="89757:89763" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="89763:89767" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="89936:89942" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="89942:89946" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="90111:90117" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="90117:90121" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="90401:90431" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="90443:90465" ph="..." />
+            <marker date="1505822662466" expanded="true" signature="90561:90567" ph=" " />
+            <marker date="1505822662466" expanded="true" signature="90567:90571" ph="&gt;" />
+            <marker date="1505822662466" expanded="true" signature="92305:92314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

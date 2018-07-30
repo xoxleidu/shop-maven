@@ -1,0 +1,46 @@
+[{
+	"name" : "后台首页",
+	"icon" : "icon-computer",
+	"href" : "main",
+	"spread" : false
+},{
+	"name" : "商品管理",
+	"icon" : "icon-text",
+	"href" : "/item/list",
+	"spread" : false
+},{
+	"name" : "商品管理2",
+	"icon" : "icon-text",
+	"href" : "/item/list2",
+	"spread" : false
+},{
+	"title" : "友情链接",
+	"icon" : "&#xe64c;",
+	"href" : "page/links/linksList.html",
+	"spread" : false
+},{
+	"name" : "系统基本参数",
+	"icon" : "&#xe631;",
+	"href" : "page/systemParameter/systemParameter.html",
+	"spread" : false
+},{
+	"name" : "其他页面",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"name" : "404页面",
+			"icon" : "&#xe61c;",
+			"href" : "page/404.html",
+			"spread" : false
+		},
+		{
+			"name" : "登录",
+			"icon" : "&#xe609;",
+			"href" : "page/login/login.html",
+			"spread" : false,
+			"target" : "_blank"
+		}
+	]
+}]

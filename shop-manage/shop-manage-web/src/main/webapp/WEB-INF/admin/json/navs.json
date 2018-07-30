@@ -1,0 +1,74 @@
+[{
+	"title" : "后台首页",
+	"icon" : "icon-computer",
+	"href" : "main",
+	"spread" : false
+},{
+	"title" : "商品管理",
+	"icon" : "icon-text",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "商品列表",
+			"icon" : "&#xe61c;",
+			"href" : "/item/itemlist",
+			"spread" : false
+		},
+		{
+			"title" : "规格参数",
+			"icon" : "&#xe609;",
+			"href" : "/item/paramlist",
+			"spread" : false
+		}
+	]
+},{
+	"title" : "内容分类管理",
+	"icon" : "icon-text",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "分类管理",
+			"icon" : "&#xe61c;",
+			"href" : "/item/categorylist",
+			"spread" : false
+		},
+		{
+			"title" : "内容管理",
+			"icon" : "&#xe609;",
+			"href" : "/item/contentlist",
+			"spread" : false
+		}
+	]
+},{
+	"title" : "友情链接",
+	"icon" : "&#xe64c;",
+	"href" : "page/links/linksList.html",
+	"spread" : false
+},{
+	"title" : "系统基本参数",
+	"icon" : "&#xe631;",
+	"href" : "page/systemParameter/systemParameter.html",
+	"spread" : false
+},{
+	"title" : "其他页面",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "404页面",
+			"icon" : "&#xe61c;",
+			"href" : "page/404.html",
+			"spread" : false
+		},
+		{
+			"title" : "登录",
+			"icon" : "&#xe609;",
+			"href" : "page/login/login.html",
+			"spread" : false,
+			"target" : "_blank"
+		}
+	]
+}]
